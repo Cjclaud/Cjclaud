@@ -53,9 +53,7 @@ I'm a final-year ICT student at **Arrupe Jesuit University** in Harare. I build 
 
 <p>
   <a href="https://github.com/Cjclaud"><img src="https://img.shields.io/badge/GitHub-Cjclaud-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
-  <!-- LinkedIn: replace YOUR-HANDLE and uncomment
-  <a href="https://www.linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  -->
+  <a href="https://www.linkedin.com/in/munotidaishe-claudius-madanhire-099162313/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 Open to internships, collaborations and anything that puts useful tech in people's hands.
