@@ -9,7 +9,7 @@
 I'm a final-year ICT student at **Arrupe Jesuit University** in Harare. I build web platforms with **Django and React**, and I like using AI to solve problems that matter here in Zimbabwe, not just in demos.
 
 - 🎮 **Shipped:** [MazeVerse AI](https://github.com/Cjclaud/MazeVerse-AI), a maze game with live A\* and BFS pathfinding, an AI rival, and a phone-based race mode
-- 🧠 **Building:** UniSphere AI, an AI assistant for students' research and study (Django + React)
+- 🧠 **Building:** Uni Catalyst, an AI assistant for students' research and study (Django + React)
 - 🤝 **Leading:** UniConnect, a student freelance marketplace, as Student President with Enactus Arrupe
 - 🕹️ **Learning:** mobile game development in Unity
 
